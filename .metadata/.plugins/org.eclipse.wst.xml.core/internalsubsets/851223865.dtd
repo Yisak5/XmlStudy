@@ -1,0 +1,11 @@
+
+<!ELEMENT memberList (memberInfo+)>
+<!ELEMENT memberInfo (name, telephone, curriculumn?, zipCode, addr)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT telephone (#PCDATA)>
+<!ELEMENT curriculumn (sub+)>
+<!ELEMENT sub (#PCDATA)>
+<!ELEMENT zipCode (#PCDATA)>
+<!ELEMENT addr (#PCDATA)>
+<!ATTLIST memberInfo mid CDATA #IMPLIED>
+

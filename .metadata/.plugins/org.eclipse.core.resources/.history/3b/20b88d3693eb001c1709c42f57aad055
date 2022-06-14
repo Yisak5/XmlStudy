@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memberList.xml>
+<!-- DTD 추가 -->
+<!DOCTYPE memberList
+[
+<!ELEMENT memberList (memberList+)>
+<!ELEMENT compactDisc (artist, title, tracks, price)>
+<!ELEMENT artist (#PCDATA)>
+<!ATTLIST artist type (individual | band) #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title numberOfTracks CDATA #REQUIRED>
+<!ELEMENT tracks (track+)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT track (#PCDATA)>
+]>
+
+
+
+		<memberInfo mid="1">
+			<name>오이삭</name>
+			<telephone><![CDATA[010-2988-1162]]></telephone>
+			
+			<curriculmn>
+				<sub>JAVA SE</sub>
+				<sub>ORACLE</sub>
+				<sub><![CDATA[Servlet&JSP]]></sub>
+			</curriculmn>
+	
+			<zipCode>01234</zipCode>
+			<addr>인천광역시 중구 신흥동 1가 6-4</addr>
+		</memberInfo>
+		
+		<memberInfo mid="2">
+			<name>김민성</name>
+			<telephone><![CDATA[010-1213-4564]]></telephone>
+			
+			<curriculmn>
+				<sub>JAVA SE</sub>
+				<sub>ORACLE</sub>
+				<sub><![CDATA[Servlet&JSP]]></sub>
+			</curriculmn>
+	
+			<zipCode>01234</zipCode>
+			<addr>서울시 마포구 월드컵북로 150</addr>
+		</memberInfo>
+		
+</memberList.xml>
