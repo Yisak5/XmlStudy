@@ -1,0 +1,4264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>기상청 육상 중기예보</title>
+		<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+		<description>기상청 날씨 웹서비스</description>
+		<language>ko</language>
+		<generator>기상청</generator>
+		<pubDate>2022년 06월 16일 (목)요일 06:00</pubDate>
+		<item>
+			<author>기상청</author>
+			<category>육상중기예보</category>
+			<title>서울,경기도 육상 중기예보 - 2022년 06월 16일 (목)요일 06:00 발표</title>
+			<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+			<guid>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</guid>
+			<description>
+				<header>
+					<title>서울,경기도 육상중기예보</title>
+					<tm>202206160600</tm>
+					<wf>
+<![CDATA[ ○ (하늘상태) 이번 예보기간은 대체로 흐리겠습니다.<br />○ (기온) 이번 예보기간 아침 기온은 18~22도, 낮 기온은 25~31도로 어제(15일, 아침최저기온 14~15도, 낮최고기온 17~25도)보다 높겠습니다.<br />○ (해상) 서해중부해상의 물결은 21일(화)과 22일(수)는 1.0~2.5m로 일겠고, 그 밖의 날은 0.5~2.0m로 일겠습니다.<br />○ (주말전망) 18일(토)~19일(일)은 대체로 흐리겠고, 아침 기온은 19~21도, 낮 기온은 26~31도가 되겠습니다.<br /><br />* 20일(월) 이후 우리나라 주변의 기압계 변화에 따라 강수 시점과 지역의 변동성이 매우 크겠으니, 앞으로 발표되는 예보와 기상정보를 참고하기 바랍니다. ]]>
+					</wf>
+				</header>
+				<body>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>서울</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>인천</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>25</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>25</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>25</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>수원</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>파주</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>이천</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>평택</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>백령도</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>23</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>18</tmn>
+							<tmx>23</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>23</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>18</tmn>
+							<tmx>23</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>23</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>23</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>24</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>24</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>23</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>23</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>23</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>24</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>24</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>과천</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>광명</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>23</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>23</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>강화</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>24</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>24</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>25</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>25</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>24</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>25</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>김포</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>시흥</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>안산</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>부천</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>의정부</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>고양</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>양주</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>19</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>동두천</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>연천</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>19</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>19</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>17</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>포천</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>가평</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>19</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>19</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>17</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>구리</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>남양주</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>양평</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>하남</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>안양</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>23</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>23</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>23</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>23</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>25</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>오산</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>화성</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>성남</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>의왕</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>25</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>군포</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>안성</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>22</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>용인</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>22</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>광주</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>29</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+					<location wl_ver="3">
+						<province>서울ㆍ인천ㆍ경기도</province>
+						<city>여주</city>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-19 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>20</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>20</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-20 12:00</tmEf>
+							<wf>구름많음</wf>
+							<tmn>21</tmn>
+							<tmx>30</tmx>
+							<reliability />
+							<rnSt>30</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-21 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-22 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A02</mode>
+							<tmEf>2022-06-23 12:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>21</tmn>
+							<tmx>28</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-24 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>20</tmn>
+							<tmx>27</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-25 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>18</tmn>
+							<tmx>26</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+						<data>
+							<mode>A01</mode>
+							<tmEf>2022-06-26 00:00</tmEf>
+							<wf>흐림</wf>
+							<tmn>19</tmn>
+							<tmx>31</tmx>
+							<reliability />
+							<rnSt>40</rnSt>
+						</data>
+					</location>
+				</body>
+			</description>
+		</item>
+	</channel>
+</rss>
